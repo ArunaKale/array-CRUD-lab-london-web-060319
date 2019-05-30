@@ -6,7 +6,7 @@ end
 
 def create_a_array
  
-array = ["one", "two", "three", "four"] 
+array = ["", "", "", ""] 
   
 end
 
