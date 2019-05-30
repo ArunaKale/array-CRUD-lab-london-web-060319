@@ -6,7 +6,7 @@ end
 
 def create_a_array
  
- ["one", "Two", "Three", "Four"] 
+array["one", "Two", "Three", "Four"] 
   
 end
 
