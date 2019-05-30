@@ -11,7 +11,7 @@ array = ["one", "two", "three", "four"]
 end
 
 def add_element_to_end_of_array(array, element)
-  add_element_to_end_of_array << "Five"
+  array << "Five"
   add_element_to_end_of_array.push("six")
 end
 
