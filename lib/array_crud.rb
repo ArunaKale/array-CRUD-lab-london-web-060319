@@ -5,7 +5,7 @@ def create_an_empty_array
 end
 
 def create_a_array
-array = ["one" , "two", "three", "four"]
+array(4) 
 end
 
 def add_element_to_end_of_array(array, element)
