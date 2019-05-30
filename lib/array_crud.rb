@@ -11,8 +11,8 @@ array = ["one", "two", "three", "four"]
 end
 
 def add_element_to_end_of_array(array, element)
-  add_element_to_end_of_array(array, element) << "Five"
-  add_element_to_end_of_array(array, element).push ("six")
+  add_element_to_end_of_array << "Five"
+  add_element_to_end_of_array.push("six")
 end
 
 def add_element_to_start_of_array(array, element)
