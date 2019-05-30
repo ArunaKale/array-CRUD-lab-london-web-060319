@@ -6,7 +6,7 @@ end
 
 def create_a_array
  
-Array["one", "Two", "Three", "Four"] 
+Array.new(4)
   
 end
 
